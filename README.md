@@ -5,6 +5,10 @@ An advanced IPTV player application built for iOS using Swift. This project feat
 ![Screen demo 1](./assets/screen1.png)
 ![Screen demo 2](./assets/screen2.png)
 
+## ⚠️ Disclaimer  
+**This project is provided for educational purposes.**  
+**I do not provide any subscription or access to any IPTV stream. Piracy is illegal.**  
+
 ## Features
 
 - 📺 **Live TV**, **Movies**, and **Series** browsing and playback.
