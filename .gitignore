@@ -60,3 +60,6 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+sources/IPTV/Configs/dev.xcconfig
+sources/Carthage/Build
+sources/Carthage
