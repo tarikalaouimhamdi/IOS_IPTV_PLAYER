@@ -2,6 +2,9 @@
 
 An advanced IPTV player application built for iOS using Swift. This project features support for live TV, VOD, and series streaming, with integration for Google Cast and a modular component-based architecture for scalability and maintainability.
 
+![Screen demo 1](./assets/screen1.png)
+![Screen demo 2](./assets/screen2.png)
+
 ## Features
 
 - 📺 **Live TV**, **Movies**, and **Series** browsing and playback.
