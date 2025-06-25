@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icontvos.jpg",
+      "idiom" : "tv"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

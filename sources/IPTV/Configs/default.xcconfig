@@ -1,0 +1,13 @@
+//
+//  dev.xcconfig
+//  IPTV
+//
+//  Created by Tarik ALAOUI on 25/06/2025.
+//
+
+XCC_VERSION_NAME = 1.0.0
+IS_DEV = 0
+TMDB_API_KEY = ""
+API_HOST = ""
+API_PASSWORD = ""
+API_LOGIN = ""
